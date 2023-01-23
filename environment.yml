@@ -1,0 +1,7 @@
+name: noteable_py
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pandas
+  - geopandas >= 0.12.1
